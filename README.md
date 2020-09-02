@@ -7,8 +7,8 @@ Please fork this repository and contribute back using pull requests.
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed .
 # Contact - Let's become friend
-Twitter handle  - sanyu daver @DaverSanyu
-Github handle sanyud24(sanyu daver)
-Linkedin- sanyu daver
-Facebook- sanyud
+Twitter handle  - sanyu daver @DaverSanyu <br/>
+Github handle sanyud24(sanyu daver)<br/>
+Linkedin- sanyu daver<br/>
+Facebook- sanyud<br/>
         
