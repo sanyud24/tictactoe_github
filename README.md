@@ -12,7 +12,6 @@ Github handle sanyud24(sanyu daver)<br/>
 Linkedin- sanyu daver<br/>
 Facebook- sanyud<br/>
 
-# Buy Me A Coffee
-<a href="https://www.buymeacoffee.com/Sanyu Daver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
         
